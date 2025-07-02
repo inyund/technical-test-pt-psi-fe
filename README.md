@@ -31,7 +31,7 @@ yarn install
 
 ## Configuration
 
-1. Adjust .env file to your environment
+1. Adjust .env file adding your backend url.
 
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:8080
